@@ -1,0 +1,17 @@
+table.customTable {
+      border-width: 2px;
+      border-color: #000000;
+      border-style: solid;
+      color: #000000;
+      text-align: center;
+      
+    }
+    
+    table.customTable td, table.customTable th {
+      border-width: 1px;
+      border-color: #000000;
+      border-style: solid;
+      padding: 20px;
+    }
+    
+   

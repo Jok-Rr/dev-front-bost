@@ -1,0 +1,10 @@
+::-webkit-progress-bar {
+  background-color: rgb(197, 197, 197);
+}
+
+.progressbar{
+  width: 100%;
+  height: 30px;
+  background-color: #04aa6d;
+  color: white;
+}

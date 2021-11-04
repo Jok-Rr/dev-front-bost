@@ -1,0 +1,15 @@
+html{
+      text-align: center;
+}
+h1{
+      font-size: 2rem;
+}
+
+.game{
+      width: 50%;
+      margin: 20px auto auto auto;
+}
+button{
+      margin: 10px;
+      padding: 50px;
+}
